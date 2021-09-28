@@ -2,7 +2,8 @@ Esta es la historia de edgardo leon
 
 Edgardo León tiene 41 años, vivo en Colombia
 
-Hoy hablaremos de muchas cosas bellas
+Hoy hablaremos de muchas cosas bellas de la vida
+
 Estoy aprendiendo Git gracias a PLatzi
 Voy a ganarme la medalla de oro en Worldskills
 Asi será
